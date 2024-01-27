@@ -3,5 +3,5 @@ Promact Infotech Assignment 1 Database
 
 ## Screenshot
 
-<img src="./Screenshot/Screenshot_CSS_Assigment4.png" alt="assigement1 screenshot">
+<img src="./assigement1 screenshot.png" alt="assigement1 screenshot">
 </hr>  
