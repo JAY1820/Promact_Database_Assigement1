@@ -35,6 +35,7 @@ CREATE TABLE `tweets` (
 	`content` TEXT NOT NULL,
 	`created_at` TIMESTAMP NOT NULL DEFAULT 'current_timestamp',
 	`updated_at` TIMESTAMP NOT NULL,
+	`comment` int NULL,
 	PRIMARY KEY (`tweets_id`)
 );
 
